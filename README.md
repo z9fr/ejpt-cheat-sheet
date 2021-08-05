@@ -1,2 +1,4 @@
 # ejpt-cheat-sheet
-Here's the cheat sheet I created for the EJPT exam. 
+
+View my thought about the ejpt exam from my blog post. thanks. 
+good luck for the exam!
