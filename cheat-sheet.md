@@ -121,7 +121,7 @@ gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u 
 
 # Finding MAC Addresses
 
----
+
 
 ```
 ipconfig /all       # windows
@@ -131,7 +131,7 @@ ip addr     # linux
 
 # Checking ARP Cache
 
----
+
 
 ```
 arp -a      # Windows
@@ -141,7 +141,7 @@ ip neighbour        # Linux
 
 # Checking for Listening Ports on a Host
 
----
+
 
 ```
 netstat -ano        # Windows
@@ -150,7 +150,7 @@ netstat -tunp       # linux
 
 # SMB Enumeration
 
----
+
 
 [139,445 - Pentesting SMB](https://book.hacktricks.xyz/pentesting/pentesting-smb)
 
